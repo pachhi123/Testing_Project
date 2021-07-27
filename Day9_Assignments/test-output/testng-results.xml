@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38543" started-at="2021-07-16T14:41:55 IST" finished-at="2021-07-16T14:42:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38543" started-at="2021-07-16T14:41:55 IST" finished-at="2021-07-16T14:42:33 IST">
+      <class name="com.Day9_Assignments.Handling_Popup">
+        <test-method status="PASS" signature="popup_handling()[pri:0, instance:com.Day9_Assignments.Handling_Popup@5e853265]" name="popup_handling" duration-ms="38393" started-at="2021-07-16T14:41:55 IST" finished-at="2021-07-16T14:42:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popup_handling -->
+      </class> <!-- com.Day9_Assignments.Handling_Popup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
